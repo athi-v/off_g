@@ -2020,22 +2020,6 @@ select {
           padding-left: 82px;
           padding-right: 82px;
 }
-.px-\[2px\] {
-          padding-left: 2px;
-          padding-right: 2px;
-}
-.px-\[px\] {
-          padding-left: px;
-          padding-right: px;
-}
-.px-\[8px\] {
-          padding-left: 8px;
-          padding-right: 8px;
-}
-.px-\[80px\] {
-          padding-left: 80px;
-          padding-right: 80px;
-}
 .pl-\[82px\] {
           padding-left: 82px;
 }
@@ -2812,11 +2796,6 @@ body, html {
           .sm\:px-\[0p\] {
                     padding-left: 0p;
                     padding-right: 0p;
-          }
-
-          .sm\:px-\[82px\] {
-                    padding-left: 82px;
-                    padding-right: 82px;
           }
 
           .sm\:pb-\[50px\] {
