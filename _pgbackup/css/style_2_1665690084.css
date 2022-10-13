@@ -703,8 +703,7 @@ textarea.w-select {
 
 @media screen and (max-width: 991px) {
     .w-container {
-        margin-left: 25px;
-        margin-right: 25px;
+        max-width: none;
     }
 
     .w-hidden-main {
@@ -846,7 +845,7 @@ textarea.w-select {
 
 @media screen and (max-width: 479px) {
     .w-container {
-        max-width: none;
+        width: 100%;
     }
 
     .w-hidden-main {

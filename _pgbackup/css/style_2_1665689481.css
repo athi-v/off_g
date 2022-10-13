@@ -703,8 +703,7 @@ textarea.w-select {
 
 @media screen and (max-width: 991px) {
     .w-container {
-        margin-left: 25px;
-        margin-right: 25px;
+        max-width: 728px;
     }
 
     .w-hidden-main {
@@ -1939,7 +1938,6 @@ textarea.w-select {
 .w--nav-link-open {
     display: block;
     position: relative;
-    color: #000;
 }
 
 .w-nav-overlay {

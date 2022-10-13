@@ -906,9 +906,6 @@ select {
 .w-\[250px\] {
           width: 250px;
 }
-.w-\[\] {
-          width: ;
-}
 .flex-1 {
           flex: 1 1 0%;
 }
@@ -1550,10 +1547,6 @@ body, html {
 
           .lg\:mt-\[400px\] {
                     margin-top: 400px;
-          }
-
-          .lg\:ml-\[25px\] {
-                    margin-left: 25px;
           }
 
           .lg\:flex {
