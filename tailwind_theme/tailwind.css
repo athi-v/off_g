@@ -776,6 +776,21 @@ select {
 .left-auto {
           left: auto;
 }
+.left-\[24px\] {
+          left: 24px;
+}
+.left-\[245px\] {
+          left: 245px;
+}
+.left-\[2px\] {
+          left: 2px;
+}
+.left-\[25px\] {
+          left: 25px;
+}
+.left-\[255px\] {
+          left: 255px;
+}
 .m-\[10px\] {
           margin: 10px;
 }
@@ -1362,6 +1377,10 @@ select {
 .px-\[25\] {
           padding-left: 25;
           padding-right: 25;
+}
+.px-\[25p\] {
+          padding-left: 25p;
+          padding-right: 25p;
 }
 .pl-\[9px\] {
           padding-left: 9px;
