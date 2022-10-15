@@ -770,6 +770,12 @@ select {
 .top-\[370px\] {
           top: 370px;
 }
+.left-\[240px\] {
+          left: 240px;
+}
+.left-auto {
+          left: auto;
+}
 .m-\[10px\] {
           margin: 10px;
 }
@@ -881,6 +887,12 @@ select {
 }
 .mr-auto {
           margin-right: auto;
+}
+.mt-\[70px\] {
+          margin-top: 70px;
+}
+.mt-\[550px\] {
+          margin-top: 550px;
 }
 .flex {
           display: flex;
@@ -1170,6 +1182,12 @@ select {
 .w-\[120px\] {
           width: 120px;
 }
+.w-\[11px\] {
+          width: 11px;
+}
+.w-\[115px\] {
+          width: 115px;
+}
 .flex-1 {
           flex: 1 1 0%;
 }
@@ -1336,6 +1354,14 @@ select {
 .py-\[10px\] {
           padding-top: 10px;
           padding-bottom: 10px;
+}
+.px-\[2\] {
+          padding-left: 2;
+          padding-right: 2;
+}
+.px-\[25\] {
+          padding-left: 25;
+          padding-right: 25;
 }
 .pl-\[9px\] {
           padding-left: 9px;
@@ -2245,6 +2271,26 @@ body, html {
                     padding-right: 0px;
           }
 
+          .sm\:px-\[58px\] {
+                    padding-left: 58px;
+                    padding-right: 58px;
+          }
+
+          .sm\:px-\[\] {
+                    padding-left: ;
+                    padding-right: ;
+          }
+
+          .sm\:px-\[0\] {
+                    padding-left: 0;
+                    padding-right: 0;
+          }
+
+          .sm\:px-\[0p\] {
+                    padding-left: 0p;
+                    padding-right: 0p;
+          }
+
           .sm\:pl-\[82px\] {
                     padding-left: 82px;
           }
@@ -3109,6 +3155,26 @@ body, html {
 
           .md\:w-\[300pc\] {
                     width: 300pc;
+          }
+
+          .md\:w-\[1\] {
+                    width: 1;
+          }
+
+          .md\:w-\[13\] {
+                    width: 13;
+          }
+
+          .md\:w-\[131\] {
+                    width: 131;
+          }
+
+          .md\:w-\[131p\] {
+                    width: 131p;
+          }
+
+          .md\:w-\[131px\] {
+                    width: 131px;
           }
 
           .md\:flex-row {
