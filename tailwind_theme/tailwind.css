@@ -1164,6 +1164,24 @@ select {
 .h-\[300p\] {
           height: 300p;
 }
+.h-\[50\] {
+          height: 50;
+}
+.h-\[500\] {
+          height: 500;
+}
+.h-\[500p\] {
+          height: 500p;
+}
+.h-\[00px\] {
+          height: 00px;
+}
+.h-\[700px\] {
+          height: 700px;
+}
+.h-\[750px\] {
+          height: 750px;
+}
 .w-full {
           width: 100%;
 }
@@ -2318,6 +2336,10 @@ body, html {
 
           .sm\:h-\[69px\] {
                     height: 69px;
+          }
+
+          .sm\:h-\[900px\] {
+                    height: 900px;
           }
 
           .sm\:w-\[465px\] {

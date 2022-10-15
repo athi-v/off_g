@@ -2320,6 +2320,10 @@ body, html {
                     height: 69px;
           }
 
+          .sm\:h-\[900px\] {
+                    height: 900px;
+          }
+
           .sm\:w-\[465px\] {
                     width: 465px;
           }
@@ -3727,6 +3731,58 @@ body, html {
                     top: 110px;
           }
 
+          .lg\:bottom-\[\] {
+                    bottom: ;
+          }
+
+          .lg\:bottom-\[5\] {
+                    bottom: 5;
+          }
+
+          .lg\:bottom-\[50\] {
+                    bottom: 50;
+          }
+
+          .lg\:bottom-\[50p\] {
+                    bottom: 50p;
+          }
+
+          .lg\:bottom-\[50px\] {
+                    bottom: 50px;
+          }
+
+          .lg\:bottom-\[0px\] {
+                    bottom: 0px;
+          }
+
+          .lg\:bottom-\[20px\] {
+                    bottom: 20px;
+          }
+
+          .lg\:bottom-\[10px\] {
+                    bottom: 10px;
+          }
+
+          .lg\:bottom-\[5px\] {
+                    bottom: 5px;
+          }
+
+          .lg\:bottom-\[px\] {
+                    bottom: px;
+          }
+
+          .lg\:bottom-\[6px\] {
+                    bottom: 6px;
+          }
+
+          .lg\:bottom-\[60px\] {
+                    bottom: 60px;
+          }
+
+          .lg\:bottom-\[58px\] {
+                    bottom: 58px;
+          }
+
           .lg\:ml-\[25px\] {
                     margin-left: 25px;
           }
@@ -4271,6 +4327,18 @@ body, html {
 
           .xl\:mb-\[50px\] {
                     margin-bottom: 50px;
+          }
+
+          .xl\:ml-\[450px\] {
+                    margin-left: 450px;
+          }
+
+          .xl\:ml-\[75px\] {
+                    margin-left: 75px;
+          }
+
+          .xl\:ml-\[82px\] {
+                    margin-left: 82px;
           }
 
           .xl\:h-\[640px\] {
