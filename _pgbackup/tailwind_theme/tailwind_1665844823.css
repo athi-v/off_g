@@ -1598,21 +1598,6 @@ select {
 .pt-\[6px\] {
           padding-top: 6px;
 }
-.pt-\[70px\] {
-          padding-top: 70px;
-}
-.pt-\[40px\] {
-          padding-top: 40px;
-}
-.pt-\[6\] {
-          padding-top: 6;
-}
-.pt-\[60\] {
-          padding-top: 60;
-}
-.pt-\[60p\] {
-          padding-top: 60p;
-}
 .text-left {
           text-align: left;
 }
@@ -2598,14 +2583,6 @@ body, html {
                     padding-top: 81px;
           }
 
-          .sm\:pt-\[80px\] {
-                    padding-top: 80px;
-          }
-
-          .sm\:pt-\[40px\] {
-                    padding-top: 40px;
-          }
-
           .sm\:text-\[40px\] {
                     font-size: 40px;
           }
@@ -3526,10 +3503,6 @@ body, html {
 
           .md\:pt-\[120px\] {
                     padding-top: 120px;
-          }
-
-          .md\:pt-\[80px\] {
-                    padding-top: 80px;
           }
 
           .md\:text-center {
