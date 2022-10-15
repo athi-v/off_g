@@ -3759,26 +3759,6 @@ body, html {
                     bottom: 10px;
           }
 
-          .lg\:bottom-\[5px\] {
-                    bottom: 5px;
-          }
-
-          .lg\:bottom-\[px\] {
-                    bottom: px;
-          }
-
-          .lg\:bottom-\[6px\] {
-                    bottom: 6px;
-          }
-
-          .lg\:bottom-\[60px\] {
-                    bottom: 60px;
-          }
-
-          .lg\:bottom-\[58px\] {
-                    bottom: 58px;
-          }
-
           .lg\:ml-\[25px\] {
                     margin-left: 25px;
           }
@@ -4327,14 +4307,6 @@ body, html {
 
           .xl\:ml-\[450px\] {
                     margin-left: 450px;
-          }
-
-          .xl\:ml-\[75px\] {
-                    margin-left: 75px;
-          }
-
-          .xl\:ml-\[82px\] {
-                    margin-left: 82px;
           }
 
           .xl\:h-\[640px\] {
