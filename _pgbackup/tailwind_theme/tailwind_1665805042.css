@@ -3129,26 +3129,6 @@ body, html {
                     width: 300pc;
           }
 
-          .md\:w-\[1\] {
-                    width: 1;
-          }
-
-          .md\:w-\[13\] {
-                    width: 13;
-          }
-
-          .md\:w-\[131\] {
-                    width: 131;
-          }
-
-          .md\:w-\[131p\] {
-                    width: 131p;
-          }
-
-          .md\:w-\[131px\] {
-                    width: 131px;
-          }
-
           .md\:flex-row {
                     flex-direction: row;
           }
