@@ -975,18 +975,6 @@ select {
 .mt-\[25px\] {
           margin-top: 25px;
 }
-.mt-\[1\] {
-          margin-top: 1;
-}
-.mt-\[15\] {
-          margin-top: 15;
-}
-.mt-\[15p\] {
-          margin-top: 15p;
-}
-.mt-\[15px\] {
-          margin-top: 15px;
-}
 .flex {
           display: flex;
 }
@@ -1515,22 +1503,6 @@ select {
 .py-\[2px\] {
           padding-top: 2px;
           padding-bottom: 2px;
-}
-.py-\[20px\] {
-          padding-top: 20px;
-          padding-bottom: 20px;
-}
-.py-\[px\] {
-          padding-top: px;
-          padding-bottom: px;
-}
-.py-\[1px\] {
-          padding-top: 1px;
-          padding-bottom: 1px;
-}
-.py-\[22px\] {
-          padding-top: 22px;
-          padding-bottom: 22px;
 }
 .pl-\[9px\] {
           padding-left: 9px;
