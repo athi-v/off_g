@@ -659,9 +659,6 @@ select {
 .bottom-\[-180px\] {
           bottom: -180px;
 }
-.m-\[20px\] {
-          margin: 20px;
-}
 .mt-\[20px\] {
           margin-top: 20px;
 }
@@ -757,18 +754,6 @@ select {
 }
 .ml-\[20px\] {
           margin-left: 20px;
-}
-.mr-\[20px\] {
-          margin-right: 20px;
-}
-.mr-\[0px\] {
-          margin-right: 0px;
-}
-.mr-\[10px\] {
-          margin-right: 10px;
-}
-.ml-\[10px\] {
-          margin-left: 10px;
 }
 .flex {
           display: flex;
@@ -2257,22 +2242,6 @@ body, html {
 
           .xl\:ml-\[770px\] {
                     margin-left: 770px;
-          }
-
-          .xl\:ml-\[730px\] {
-                    margin-left: 730px;
-          }
-
-          .xl\:ml-\[7030px\] {
-                    margin-left: 7030px;
-          }
-
-          .xl\:ml-\[720px\] {
-                    margin-left: 720px;
-          }
-
-          .xl\:ml-\[710px\] {
-                    margin-left: 710px;
           }
 
           .xl\:flex {
